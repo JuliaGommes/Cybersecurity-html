@@ -1,0 +1,32 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: 'Pixelify Sans', cursive;
+}
+
+.header {
+	min-height: 100vh;
+	width: 100%;
+	background-color: #D1C4E9;
+	
+}
+
+.text-box{
+	width: 90%
+	color: #fff;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	text-align: center;
+	
+}
+
+.text-box h1{
+	font-size: 62px;
+}
+
+.text-box p{
+	margin: 10px 0 40px;
+	font-size: 40px;
+}
